@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://the1ne.de/og-image.png?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://the1ne.de/og-image.png?v=4">
-  <img alt="the1ne — AI Engineer & Consultant" src="https://the1ne.de/og-image.png?v=4" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://the1ne.de/og-image.png?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://the1ne.de/og-image.png?v=5">
+  <img alt="the1ne — AI Engineer & Consultant" src="https://the1ne.de/og-image.png?v=5" width="100%">
 </picture>
 
 ### KI-Systeme, die wirklich live gehen.
